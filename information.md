@@ -106,3 +106,5 @@ _no changes added to commit (use "git add" and/or "git commit -a")_ - выпол
 # _**Основные комманды второго семинара**_
 
 _**git branch**_ – посмотреть список веток в репозитории
+
+_**git commit -am “message”**_ – добавление файлов в отслеживание и       создание коммита.
