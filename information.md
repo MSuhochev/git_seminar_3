@@ -103,7 +103,7 @@ _no changes added to commit (use "git add" and/or "git commit -a")_ - выпол
 
 > ! [] ()
 
-# _**Основные комманды второго семинара**_
+# **Основные комманды второго семинара**
 
 _**git branch**_ – посмотреть список веток в репозитории
 
@@ -120,3 +120,5 @@ FRFRFRFF
 khbefbefw
 
 jdvksjkjbsd;jbv;ds
+
+
