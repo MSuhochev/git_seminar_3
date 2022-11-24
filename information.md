@@ -1,6 +1,6 @@
 # **Основные команды первого семинара**
 
-![git instuktion](git.png) 
+![git instruction](git.png) 
 
 #### Первое действие при создании папки, действия в которой мы хотим отслеживать - инициализация этой папки. Выполняется командой:
 
@@ -32,7 +32,7 @@ _no changes added to commit (use "git add" and/or "git commit -a")_ - выпол
 
 # **Синтаксис языка Markdown**
 
-![markdown instuktion](Markdown.png)
+![markdown instruction](Markdown.png)
 
 ## _**Заголовок**_
 
