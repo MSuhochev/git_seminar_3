@@ -113,6 +113,8 @@ _no changes added to commit (use "git add" and/or "git commit -a")_ - выпол
 
 # **Основные комманды второго семинара**
 
+![branch_merging](branch_merging.png)
+
 _**git commit -am “message”**_ – добавление файлов в отслеживание и создание коммита одной коммандой.
 
 _**git branch**_ – посмотреть список веток в репозитории
